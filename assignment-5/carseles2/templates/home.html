@@ -1,0 +1,63 @@
+{% extends 'base.html' %} {% load static %} {% block content %}
+
+<div class="d-flex flex-wrap px-2 py-3 m-5 align-items-center ">
+  <div class="col-6">
+    <h1>Welcome to <b class="text-info"> CarMart</b></h1>
+    <p>
+      You can likely get the most money for your car by selling it privately.
+      This is because <br />you're selling to the next owner directly instead of
+      through a middleman like a <br />
+      dealership or car buying website. You can use local forums like Facebook
+      Marketplace <br />
+      and Craigslist to advertise your vehicle, or even check out eBay Motors.
+      Using an <br />
+      online dealer like <b>CarMart</b> is the most convenient way to sell your
+      car.
+    </p>
+    <button class="btn btn-dark text-white">Explore More</button>
+  </div>
+
+  <div class="col-6">
+    <img class="w-100 h-100" src="{% static 'img_4.jpg' %}" alt="image" />
+  </div>
+</div>
+
+<div class="d-flex flex-wrap justify-content-center p-4">
+  <div class="bg-white p-3">
+    <div class="d-flex">
+      {% for br in brand %}
+      <a
+        href="{% url 'brand_wise_car' br.slug %}"
+        class="text-decoration-none btn btn-dark text-white me-2 fw-bold"
+        >{{br.name}}</a
+      >
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="p-3">
+    <h4>Total Car Found: <b class="text-dark text-white">{{car | length }}</b></h4>
+    <div class="d-flex flex-wrap pt-5">
+      {% for c in car %}
+
+      <div class="col-3">
+        <div class="card mx-2" >
+          <div class="card-body">
+            <img src="{{c.image.url}}" class="card-img-top" alt="image" />
+            <h5 class="card-title mt-2">
+              <a href="" class="text-decoration-none text-dark fw-bold">{{c.name}}</a>
+            </h5>
+            <p><b>Price:</b> {{c.price}}$</p>
+            <p><b>Brand :</b> {{c.brand}}</p>
+            <p>{{c.description|truncatewords:15}}</p>
+            <a class="btn btn-dark text-white text-decoration-none" href={% url 'details_car' c.id %}>Details</a>
+          </div>
+        </div>
+      </div>
+
+      {% endfor%}
+    </div>
+  </div>
+</div>
+
+{% endblock %}

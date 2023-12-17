@@ -1,0 +1,1004 @@
+[
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse_lazy",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserChangeForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "AuthenticationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordChangeForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Brand",
+        "importPath": "brand.models",
+        "description": "brand.models",
+        "isExtraImport": true,
+        "detail": "brand.models",
+        "documentation": {}
+    },
+    {
+        "label": "Brand",
+        "importPath": "brand.models",
+        "description": "brand.models",
+        "isExtraImport": true,
+        "detail": "brand.models",
+        "documentation": {}
+    },
+    {
+        "label": "LogoutView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "LoginView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "LogoutView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "update_session_auth_hash",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "DetailView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "Car",
+        "importPath": "car.models",
+        "description": "car.models",
+        "isExtraImport": true,
+        "detail": "car.models",
+        "documentation": {}
+    },
+    {
+        "label": "Car",
+        "importPath": "car.models",
+        "description": "car.models",
+        "isExtraImport": true,
+        "detail": "car.models",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "brand.migrations.0001_initial",
+        "description": "brand.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Brand',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=255)),",
+        "detail": "brand.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "brand.migrations.0002_brand_slug",
+        "description": "brand.migrations.0002_brand_slug",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('brand', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='brand',\n            name='slug',\n            field=models.SlugField(blank=True, max_length=100, null=True, unique=True),\n        ),",
+        "detail": "brand.migrations.0002_brand_slug",
+        "documentation": {}
+    },
+    {
+        "label": "BrandAdmin",
+        "kind": 6,
+        "importPath": "brand.admin",
+        "description": "brand.admin",
+        "peekOfCode": "class BrandAdmin(admin.ModelAdmin):\n    prepopulated_fields = {\"slug\": (\"name\",)}\n    list_display = [\"name\", \"slug\"]\nadmin.site.register(models.Brand, BrandAdmin)",
+        "detail": "brand.admin",
+        "documentation": {}
+    },
+    {
+        "label": "BrandConfig",
+        "kind": 6,
+        "importPath": "brand.apps",
+        "description": "brand.apps",
+        "peekOfCode": "class BrandConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'brand'",
+        "detail": "brand.apps",
+        "documentation": {}
+    },
+    {
+        "label": "BrandForm",
+        "kind": 6,
+        "importPath": "brand.forms",
+        "description": "brand.forms",
+        "peekOfCode": "class BrandForm(forms.ModelForm):\n    class Meta:\n        model = Brand\n        fields = \"__all__\"",
+        "detail": "brand.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Brand",
+        "kind": 6,
+        "importPath": "brand.models",
+        "description": "brand.models",
+        "peekOfCode": "class Brand(models.Model):\n    name = models.CharField(max_length=255)\n    slug = models.SlugField(max_length=100, unique=True, null=True, blank=True)\n    def __str__(self):\n        return self.name",
+        "detail": "brand.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "brand.urls",
+        "description": "brand.urls",
+        "peekOfCode": "urlpatterns = [\n    # path(\"add_brand/\", views.add_brand, name=\"add_brand\"),\n]",
+        "detail": "brand.urls",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "car.migrations.0001_initial",
+        "description": "car.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('brand', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Car',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "car.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "car.migrations.0002_alter_car_image",
+        "description": "car.migrations.0002_alter_car_image",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('car', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='car',\n            name='image',\n            field=models.ImageField(blank=True, null=True, upload_to='media/uploads/'),\n        ),",
+        "detail": "car.migrations.0002_alter_car_image",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "car.migrations.0003_alter_car_image",
+        "description": "car.migrations.0003_alter_car_image",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('car', '0002_alter_car_image'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='car',\n            name='image',\n            field=models.ImageField(blank=True, null=True, upload_to='car/media/uploads/'),\n        ),",
+        "detail": "car.migrations.0003_alter_car_image",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "car.migrations.0004_comment",
+        "description": "car.migrations.0004_comment",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('car', '0003_alter_car_image'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Comment',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=30)),",
+        "detail": "car.migrations.0004_comment",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "car.migrations.0005_alter_comment_email",
+        "description": "car.migrations.0005_alter_comment_email",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('car', '0004_comment'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='comment',\n            name='email',\n            field=models.EmailField(max_length=254),\n        ),",
+        "detail": "car.migrations.0005_alter_comment_email",
+        "documentation": {}
+    },
+    {
+        "label": "CarConfig",
+        "kind": 6,
+        "importPath": "car.apps",
+        "description": "car.apps",
+        "peekOfCode": "class CarConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'car'",
+        "detail": "car.apps",
+        "documentation": {}
+    },
+    {
+        "label": "CarForm",
+        "kind": 6,
+        "importPath": "car.forms",
+        "description": "car.forms",
+        "peekOfCode": "class CarForm(forms.ModelForm):\n    class Meta:\n        model = Car\n        # fields = \"__all__\"\n        exclude = [\"brand\"]\nclass RegisterForm(UserCreationForm):\n    first_name = forms.CharField(widget=forms.TextInput(attrs={\"id\": \"required\"}))\n    last_name = forms.CharField(widget=forms.TextInput(attrs={\"id\": \"required\"}))\n    email = forms.CharField(widget=forms.EmailInput(attrs={\"id\": \"required\"}))\n    class Meta:",
+        "detail": "car.forms",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterForm",
+        "kind": 6,
+        "importPath": "car.forms",
+        "description": "car.forms",
+        "peekOfCode": "class RegisterForm(UserCreationForm):\n    first_name = forms.CharField(widget=forms.TextInput(attrs={\"id\": \"required\"}))\n    last_name = forms.CharField(widget=forms.TextInput(attrs={\"id\": \"required\"}))\n    email = forms.CharField(widget=forms.EmailInput(attrs={\"id\": \"required\"}))\n    class Meta:\n        model = User\n        fields = [\"username\", \"first_name\", \"last_name\", \"email\"]\nclass ChangeUserForm(UserChangeForm):\n    password = None\n    class Meta:",
+        "detail": "car.forms",
+        "documentation": {}
+    },
+    {
+        "label": "ChangeUserForm",
+        "kind": 6,
+        "importPath": "car.forms",
+        "description": "car.forms",
+        "peekOfCode": "class ChangeUserForm(UserChangeForm):\n    password = None\n    class Meta:\n        model = User\n        fields = [\"username\", \"first_name\", \"last_name\", \"email\"]\nclass CommentForm(forms.ModelForm):\n    class Meta:\n        model = Comment\n        fields = [\"name\", \"email\", \"body\"]",
+        "detail": "car.forms",
+        "documentation": {}
+    },
+    {
+        "label": "CommentForm",
+        "kind": 6,
+        "importPath": "car.forms",
+        "description": "car.forms",
+        "peekOfCode": "class CommentForm(forms.ModelForm):\n    class Meta:\n        model = Comment\n        fields = [\"name\", \"email\", \"body\"]",
+        "detail": "car.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Car",
+        "kind": 6,
+        "importPath": "car.models",
+        "description": "car.models",
+        "peekOfCode": "class Car(models.Model):\n    brand = models.ForeignKey(Brand, on_delete=models.CASCADE)\n    name = models.CharField(max_length=255)\n    description = models.TextField()\n    image = models.ImageField(upload_to=\"car/media/uploads/\", blank=True, null=True)\n    quantity = models.IntegerField(default=0)\n    price = models.DecimalField(max_digits=10, decimal_places=2)\n    def __str__(self):\n        return self.name\nclass Comment(models.Model):",
+        "detail": "car.models",
+        "documentation": {}
+    },
+    {
+        "label": "Comment",
+        "kind": 6,
+        "importPath": "car.models",
+        "description": "car.models",
+        "peekOfCode": "class Comment(models.Model):\n    car = models.ForeignKey(Car, on_delete=models.CASCADE, related_name=\"comments\")\n    name = models.CharField(max_length=30)\n    email = models.EmailField()\n    body = models.TextField()\n    created_on = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return f\"Comments by {self.name}\"",
+        "detail": "car.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "car.urls",
+        "description": "car.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"register/\", views.register, name=\"register\"),\n    path(\"login/\", views.UserLoginView.as_view(), name=\"user_login\"),\n    path(\"logout/\", views.user_logout, name=\"user_logout\"),\n    # path(\"logout/\", views.LogoutView.as_view(), name=\"user_logout\"),\n    path(\"profile/\", views.profile, name=\"profile\"),\n    path(\"profile/edit\", views.edit_profile, name=\"edit_profile\"),\n    path(\"details/<int:id>\", views.DetailPCarView.as_view(), name=\"details_car\"),\n    path(\"purchase_car/<int:id>\", views.purchase_car, name=\"purchase_car\"),\n]",
+        "detail": "car.urls",
+        "documentation": {}
+    },
+    {
+        "label": "UserLoginView",
+        "kind": 6,
+        "importPath": "car.views",
+        "description": "car.views",
+        "peekOfCode": "class UserLoginView(LoginView):\n    template_name = \"register.html\"\n    def get_success_url(self):\n        return reverse_lazy(\"profile\")\n    def form_valid(self, form):\n        messages.success(self.request, \"loged in succcessfully\")\n        return super().form_valid(form)\n    def form_invalid(self, form):\n        messages.success(self.request, \"loged in information incorrect\")\n        return super().form_invalid(form)",
+        "detail": "car.views",
+        "documentation": {}
+    },
+    {
+        "label": "DetailPCarView",
+        "kind": 6,
+        "importPath": "car.views",
+        "description": "car.views",
+        "peekOfCode": "class DetailPCarView(DetailView):\n    model = models.Car\n    pk_url_kwarg = \"id\"\n    template_name = \"car_details.html\"\n    def post(self, request, *args, **kwargs):\n        comment_form = forms.CommentForm(data=self.request.POST)\n        car = self.get_object()\n        if comment_form.is_valid():\n            new_comment = comment_form.save(commit=False)\n            new_comment.car = car",
+        "detail": "car.views",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "car.views",
+        "description": "car.views",
+        "peekOfCode": "def register(request):\n    if request.method == \"POST\":\n        register_form = forms.RegisterForm(request.POST)\n        if register_form.is_valid():\n            register_form.save()\n            messages.success(request, \"Account has been created successfully\")\n            return redirect(\"register\")\n    else:\n        register_form = forms.RegisterForm()\n    return render(request, \"register.html\", {\"form\": register_form, \"type\": \"Register\"})",
+        "detail": "car.views",
+        "documentation": {}
+    },
+    {
+        "label": "purchase_car",
+        "kind": 2,
+        "importPath": "car.views",
+        "description": "car.views",
+        "peekOfCode": "def purchase_car(request, id):\n    car = Car.objects.get(pk=id)\n    if car.quantity > 0:\n        car.quantity -= 1\n        car.save()\n        purchased_cars = [car]\n        return render(request, \"profile.html\", {\"purchased_cars\": purchased_cars})\n    else:\n        return render(request, \"home.html\")\n@login_required",
+        "detail": "car.views",
+        "documentation": {}
+    },
+    {
+        "label": "profile",
+        "kind": 2,
+        "importPath": "car.views",
+        "description": "car.views",
+        "peekOfCode": "def profile(request):\n    return render(request, \"profile.html\")\n@login_required\ndef edit_profile(request):\n    if request.method == \"POST\":\n        profile_form = forms.ChangeUserForm(request.POST, instance=request.user)\n        if profile_form.is_valid():\n            profile_form.save()\n            messages.success(request, \"Profile Updated successfully\")\n            return redirect(\"profile\")",
+        "detail": "car.views",
+        "documentation": {}
+    },
+    {
+        "label": "edit_profile",
+        "kind": 2,
+        "importPath": "car.views",
+        "description": "car.views",
+        "peekOfCode": "def edit_profile(request):\n    if request.method == \"POST\":\n        profile_form = forms.ChangeUserForm(request.POST, instance=request.user)\n        if profile_form.is_valid():\n            profile_form.save()\n            messages.success(request, \"Profile Updated successfully\")\n            return redirect(\"profile\")\n    else:\n        profile_form = forms.ChangeUserForm(instance=request.user)\n    return render(request, \"update_profile.html\", {\"form\": profile_form})",
+        "detail": "car.views",
+        "documentation": {}
+    },
+    {
+        "label": "user_logout",
+        "kind": 2,
+        "importPath": "car.views",
+        "description": "car.views",
+        "peekOfCode": "def user_logout(request):\n    logout(request)\n    return redirect(\"user_login\")\n# class UserLogoutView(LogoutView):\n#     template_name = \"register.html\"\n#     def get_success_url(self):\n#         return reverse_lazy(\"home\")\nclass DetailPCarView(DetailView):\n    model = models.Car\n    pk_url_kwarg = \"id\"",
+        "detail": "car.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "carSales.asgi",
+        "description": "carSales.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "carSales.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "carSales.settings",
+        "description": "carSales.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = \"django-insecure-ed6if5bz4p0&er7=_ahjr8c0#mrxszhrz5f_3hs0v-g+@z07+%\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "carSales.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "carSales.settings",
+        "description": "carSales.settings",
+        "peekOfCode": "SECRET_KEY = \"django-insecure-ed6if5bz4p0&er7=_ahjr8c0#mrxszhrz5f_3hs0v-g+@z07+%\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",",
+        "detail": "carSales.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "carSales.settings",
+        "description": "carSales.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",",
+        "detail": "carSales.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "carSales.settings",
+        "description": "carSales.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    \"car\",",
+        "detail": "carSales.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "carSales.settings",
+        "description": "carSales.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    \"car\",\n    \"brand\",\n    \"crispy_forms\",",
+        "detail": "carSales.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CRISPY_ALLOWED_TEMPLATE_PACKS",
+        "kind": 5,
+        "importPath": "carSales.settings",
+        "description": "carSales.settings",
+        "peekOfCode": "CRISPY_ALLOWED_TEMPLATE_PACKS = \"bootstrap5\"\nCRISPY_TEMPLATE_PACK = \"bootstrap5\"\nLOGIN_URL = \"/car/login/\"\nMIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",\n    \"django.contrib.auth.middleware.AuthenticationMiddleware\",\n    \"django.contrib.messages.middleware.MessageMiddleware\",",
+        "detail": "carSales.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CRISPY_TEMPLATE_PACK",
+        "kind": 5,
+        "importPath": "carSales.settings",
+        "description": "carSales.settings",
+        "peekOfCode": "CRISPY_TEMPLATE_PACK = \"bootstrap5\"\nLOGIN_URL = \"/car/login/\"\nMIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",\n    \"django.contrib.auth.middleware.AuthenticationMiddleware\",\n    \"django.contrib.messages.middleware.MessageMiddleware\",\n    \"django.middleware.clickjacking.XFrameOptionsMiddleware\",",
+        "detail": "carSales.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_URL",
+        "kind": 5,
+        "importPath": "carSales.settings",
+        "description": "carSales.settings",
+        "peekOfCode": "LOGIN_URL = \"/car/login/\"\nMIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",\n    \"django.contrib.auth.middleware.AuthenticationMiddleware\",\n    \"django.contrib.messages.middleware.MessageMiddleware\",\n    \"django.middleware.clickjacking.XFrameOptionsMiddleware\",\n]",
+        "detail": "carSales.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "carSales.settings",
+        "description": "carSales.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",\n    \"django.contrib.auth.middleware.AuthenticationMiddleware\",\n    \"django.contrib.messages.middleware.MessageMiddleware\",\n    \"django.middleware.clickjacking.XFrameOptionsMiddleware\",\n]\nROOT_URLCONF = \"carSales.urls\"",
+        "detail": "carSales.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "carSales.settings",
+        "description": "carSales.settings",
+        "peekOfCode": "ROOT_URLCONF = \"carSales.urls\"\nTEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [\n            \"templates\",\n        ],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [",
+        "detail": "carSales.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "carSales.settings",
+        "description": "carSales.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [\n            \"templates\",\n        ],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",",
+        "detail": "carSales.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "carSales.settings",
+        "description": "carSales.settings",
+        "peekOfCode": "WSGI_APPLICATION = \"carSales.wsgi.application\"\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\nDATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.sqlite3\",\n        \"NAME\": BASE_DIR / \"db.sqlite3\",\n    }\n}\n# Password validation",
+        "detail": "carSales.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "carSales.settings",
+        "description": "carSales.settings",
+        "peekOfCode": "DATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.sqlite3\",\n        \"NAME\": BASE_DIR / \"db.sqlite3\",\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "carSales.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "carSales.settings",
+        "description": "carSales.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.UserAttributeSimilarityValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.MinimumLengthValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.CommonPasswordValidator\",\n    },",
+        "detail": "carSales.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "carSales.settings",
+        "description": "carSales.settings",
+        "peekOfCode": "LANGUAGE_CODE = \"en-us\"\nTIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = \"static/\"\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\",\n]",
+        "detail": "carSales.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "carSales.settings",
+        "description": "carSales.settings",
+        "peekOfCode": "TIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = \"static/\"\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\",\n]\nMEDIA_URL = \"/media/\"",
+        "detail": "carSales.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "carSales.settings",
+        "description": "carSales.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = \"static/\"\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\",\n]\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = BASE_DIR / \"media\"",
+        "detail": "carSales.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "carSales.settings",
+        "description": "carSales.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = \"static/\"\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\",\n]\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = BASE_DIR / \"media\"\n# Default primary key field type",
+        "detail": "carSales.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "carSales.settings",
+        "description": "carSales.settings",
+        "peekOfCode": "STATIC_URL = \"static/\"\nSTATICFILES_DIRS = [\n    BASE_DIR / \"static\",\n]\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = BASE_DIR / \"media\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "carSales.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "carSales.settings",
+        "description": "carSales.settings",
+        "peekOfCode": "STATICFILES_DIRS = [\n    BASE_DIR / \"static\",\n]\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = BASE_DIR / \"media\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "carSales.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "carSales.settings",
+        "description": "carSales.settings",
+        "peekOfCode": "MEDIA_URL = \"/media/\"\nMEDIA_ROOT = BASE_DIR / \"media\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "carSales.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "carSales.settings",
+        "description": "carSales.settings",
+        "peekOfCode": "MEDIA_ROOT = BASE_DIR / \"media\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "carSales.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "carSales.settings",
+        "description": "carSales.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "carSales.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "carSales.urls",
+        "description": "carSales.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"admin/\", admin.site.urls),\n    path(\"\", views.home, name=\"home\"),\n    path(\"brand/<slug:brand_slug>\", views.home, name=\"brand_wise_car\"),\n    path(\"car/\", include(\"car.urls\")),\n    path(\"brand/\", include(\"brand.urls\")),\n]\nurlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
+        "detail": "carSales.urls",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "carSales.views",
+        "description": "carSales.views",
+        "peekOfCode": "def home(request, brand_slug=None):\n    car = Car.objects.all()\n    if brand_slug is not None:\n        brand = Brand.objects.get(slug=brand_slug)\n        car = Car.objects.filter(brand=brand)\n    brand = Brand.objects.all()\n    return render(request, \"home.html\", {\"car\": car, \"brand\": brand})",
+        "detail": "carSales.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "carSales.wsgi",
+        "description": "carSales.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "carSales.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'carSales.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
